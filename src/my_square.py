@@ -3,4 +3,4 @@ def m_square(x):
 	"""
 	
 	return(x ** 2)
-print(m_square(3))
+print(m_square(4))
