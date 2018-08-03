@@ -3,6 +3,11 @@ def m_square(x):
 	use operator *****
 	
 	"""
+
 	
 	return(x ** 2)
+
+def my_square2(x):
+	return(x * x)
 print(m_square(4))
+print(my_square2(9))
