@@ -8,6 +8,9 @@ def m_square(x):
 	return(x ** 2)
 
 def my_square2(x):
+
+	""" uses the operator to calculate square 
+	"""
 	return(x * x)
 print(m_square(4))
 print(my_square2(9))
